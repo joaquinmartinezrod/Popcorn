@@ -1,0 +1,6 @@
+#labeltittle {
+    -fx-font-size: 20;
+    -fx-text-fill: darkgreen;
+    -fx-alignment: center-right;
+    -fx-font: futura;
+}
